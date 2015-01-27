@@ -20,7 +20,7 @@
         "node_modules"
     ],
     "dependencies": {
-        "json-editor": "^0.7.13",
+        "json-editor": "https://github.com/sebdm/json-editor.git#additional_properties",
         "angular": "1.*"
     }
 }
